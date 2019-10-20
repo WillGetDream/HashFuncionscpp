@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HashFuncionscpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HashFuncionscpp">
+				<Option output="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/HashFuncionscpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 HashFuncionscpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HashFuncionscpp/fast">
+				<Option output="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/HashFuncionscpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 HashFuncionscpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/GeneralHashFunctions.cpp">
+			<Option target="HashFuncionscpp"/>
+		</Unit>
+		<Unit filename="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/GeneralHashFunctions.h">
+			<Option target="HashFuncionscpp"/>
+		</Unit>
+		<Unit filename="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/main.cpp">
+			<Option target="HashFuncionscpp"/>
+		</Unit>
+		<Unit filename="/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

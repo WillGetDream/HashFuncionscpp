@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/GeneralHashFunctions.h
+string
+-
+
+/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/main.cpp
+iostream
+-
+string
+-
+iomanip
+-
+GeneralHashFunctions.h
+/Users/william/CLionProjects/Algorithm-ACM/HashFuncionscpp/GeneralHashFunctions.h
+
